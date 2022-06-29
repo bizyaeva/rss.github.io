@@ -1,9 +1,25 @@
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0">
 <channel>
 <title>Son Dakika Altın Haberleri - Kripto Piyasası</title>
-<link>http://www.calcalist.co.il/home/0,7340,L-2,00.html</link>
-<pubDate>Tue, 28 Jun 2022 15:55:59 +0300</pubDate>
-<lastBuildDate>Tue, 28 Jun 2022 15:55:59 +0300</lastBuildDate>
+<atom:link href="https://www.kriptopiyasasi.com/altin/feed/" rel="self" type="application/rss+xml"/>
+<link>https://www.kriptopiyasasi.com</link>
+<description>Kripto Piyasası - Son Dakika Bitcoin ve Kripto Para Haberleri</description>
+<lastBuildDate>Tue, 28 Jun 2022 21:20:42 +0000</lastBuildDate>
+<language>tr</language>
+<sy:updatePeriod> hourly </sy:updatePeriod>
+<sy:updateFrequency> 1 </sy:updateFrequency>
+<generator>https://wordpress.org/?v=6.0</generator>
+<image>
+<url>https://www.kriptopiyasasi.com/wp-content/uploads/2020/04/cropped-favicon-32x32.png</url>
+<title>Son Dakika Altın Haberleri - Kripto Piyasası</title>
+<link>https://www.kriptopiyasasi.com</link>
+<width>32</width>
+<height>32</height>
+</image>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+<atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>
+<atom:link rel="hub" href="https://websubhub.com/hub"/>
+<site xmlns="com-wordpress:feed-additions:1">175164498</site>
 <item>
 <title>Gram Altın Yükselişine Devam Ediyor!</title>
 <link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
