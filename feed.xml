@@ -6,14 +6,30 @@
 <lastBuildDate>Tue, 28 Jun 2022 21:20:42 +0000</lastBuildDate>
 <language>tr</language>
 <item>
-<title>Весь текст обернут в b</title>
+<title>Весь текст обернут сначала в p , потом в b</title>
 <link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
 <pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
 <guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=37548</guid>
 <description>
+<p>
 <b>
 Bitcoin’s nosedives continued in the past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low
 It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000.
+</b>
+</p>
+</description>
+</item>
+<item>
+<title>Весь текст обернут в сначала в b , потом в p </title>
+<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
+<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
+<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=37548rtt</guid>
+<description>
+<b>
+<p>
+Bitcoin’s nosedives continued in the past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low
+It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000.
+</p>
 </b>
 </description>
 </item>
