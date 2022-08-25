@@ -1,166 +1,44 @@
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
 <channel>
 <title>Son Dakika Altın Haberleri - Kripto Piyasası</title>
+<atom:link href="https://www.bitcoinsistemi.com/haberler/feed/" rel="self" type="application/rss+xml" />
 <link>https://www.kriptopiyasasi.com</link>
 <description>Kripto Piyasası - Son Dakika Bitcoin ve Kripto Para Haberleri</description>
 <lastBuildDate>Tue, 28 Jun 2022 21:20:42 +0000</lastBuildDate>
 <language>tr</language>
+<generator>https://wordpress.org/?v=6.0.1</generator>
 <item>
-<title>
-Korea Blockchain Week, Aug. 9: Second-day takeaways from the Cointelegraph team
-</title>
-<link>https://cointelegraph.com/news/korea-blockchain-week-aug-9-second-day-takeaways-from-the-cointelegraph-team</link>
-<pubDate>Tue, 09 Aug 2022 09:45:00 +0100</pubDate>
-<guid isPermaLink="false">https://cointelegraph.com/news/korea-blockchain-week-aug-9-second-day-takeaways-from-the-cointelegraph-team</guid>
-<description>
-<![CDATA[ <p>Korea Blockchain Week&nbsp;(KBW) 2022 wrapped up its two-day mainstage events this evening, which again saw a number of influential speakers <a href="https://cointelegraph.com/news/korea-blockchain-week-aug-8-first-day-takeaways-from-the-cointelegraph-team">take to the podium</a> including Janine Yorio of Everyrealm, Yat Siu of Animoca Brands and Sky Mavis&rsquo; Jeffrey Zirlin.<p>Held at the Grand Intercontinental Seoul Parnas, the second-day conference saw thousands of attendees engaged across three conference tracks &mdash; Stage Seoul, Stage Busan and Stage Jeju. </p><p>The majority of the discussions on the second day focused on the future of the <a href="https://cointelegraph.com/metaverse-for-beginners/what-is-metaverse-in-blockchain-a-beginners-guide-on-an-internet-enabled-virtual-world">Metaverse</a>, and the strategies that Web3 companies are taking to grow the industry.&nbsp;Given that the event was based in Korea, many were interested in the many exciting Web3 projects coming out of the Korean blockchain scene.&nbsp;The two-day event turned in a very large attendance despite Seoul experiencing some torrential rain over the last few days.</p><p>But, it&rsquo;s not quite over yet for KBW 2022 attendees, who will continue networking throughout the night and the rest of the week over countless side events.&nbsp;From 7:00 pm KST, KBW and Upclub will be hosting an exclusive afterparty for KBW attendees at People The Terras in Gangnam-gu in Seoul.</p><p>Later in the night, the &ldquo;KBW Official After After Party&rdquo; will kick off at Club Oriental Jack in Seoul, with the festivities running from 11:00 pm KST to 6:00 am KST for the brave. </p><p>For those that couldn&rsquo;t make it to Seoul for KBW 2022, the Cointelegraph team on the ground in Korea has highlighted some of the key discussions from the second day of the conference.</p><h2>Ready Player One' gave us the misconception that the Metaverse is VR &mdash; Everyrealm CEO</h2><p>Everyrealm CEO Janine Yorio believes that Steven Spielberg&rsquo;s film <em>Ready Player One</em> presents a <a href="https://cointelegraph.com/news/ready-player-one-gave-us-the-misconception-that-the-metaverse-is-vr-everyrealm-ceo-kbw-2022">myriad of misconceptions</a> about the Metaverse, mainly due to the fact that &ldquo;the protagonist is wearing a VR headset.&rdquo;</p><figure><img src="https://s3.cointelegraph.com/uploads/2022-08/057cc61d-f046-4731-a240-4dd5698b6855.jpg" alt="" title=""><figcaption style="text-align: center;"><em>Pictured:&nbsp; Janine Yorio, CEO, Everyrealm</em></figcaption></figure><p>In the presentation, Yorio highlighted that because humans like to &ldquo;interact with technologically&rdquo; which is historically 18 inches from our faces, VR headsets can present a number of adoption challenges.</p><h3>Digital property rights key to thriving Web3 economy &mdash; Animoca&rsquo;s Yat Siu</h3><p>Co-founder of Hong Kong-based venture firm Animoca Brands Yat Siu believes that on-chain digital property rights are one of the main aspects of blockchain technology that will drive a more decentralized society.</p><p>Siu believes Web2 companies have had their day with &ldquo;controlling our data,&rdquo; and now blockchain-based applications can provide digital ownership to content creators themselves. </p><figure><img src="https://s3.cointelegraph.com/uploads/2022-08/b5d79e98-f12a-43fc-aac9-8bc43339383f.jpg"><figcaption style="text-align: center;"><em>Pictured: Yat Siu, Chairman and Co-Founder, Animoca Brands</em></figcaption></figure><h3>Axie Infinity to &ldquo;double-down&rdquo; on the Korean market </h3><p>Sky Mavis, the firm behind play-to-earn (P2E) heavyweight Axie Infinity outlined intentions to &ldquo;double down&rdquo; in South Korea and ramp up adoption of the game. </p><p>Sky Mavis co-founder and growth lead Jeffrey Zirlin spoke to Cointelegraph and noted that despite the domestic ban on P2E games still being in place, the &ldquo;Korean market is one of the most important gaming markets in the world, and we have tons of players in South Korea.&rdquo;</p><p>Zirlin added that the company is currently looking at ways to tailor the Axie Infinity game to its cohort of Korean gamers: </p><blockquote>&ldquo;I think you know, we want to double down. We want to localize for example, Koreans don&rsquo;t speak much English, right? So there are actually a lot of barriers to actually getting the game into the hands of Korean players.&rdquo; </blockquote><h3>20 million JavaScript devs can now build applications on NEAR</h3><p>Near Protocol founder Illia Polosukhin spoke to Cointelegraph after the protocol rolled out its JavaScript Software Development Kits (JS SDKs), effectively opening Near&rsquo;s floodgates to 20 million global Javascript developers.</p><p>During KBW 2022, Polosukhin emphasized that the move will open up the niche field of blockchain development to a substantially broader audience, such as students looking to dip their toes into the blockchain and people in the commercial sector looking to accelerate their projects.</p><p>&ldquo;There&rsquo;s about 20 million JavaScript developers in the world. Probably like every developer one way or another wrote JavaScript in their life. And what we allow you to do is to write smart contracts in JavaScript,&rdquo; said Polosukhin.</p></p> ]]>
-</description>
-</item>
-<item>
-<title>
-Korea Blockchain Week, Aug. 9: Second-day takeaways from the Cointelegraph
-</title>
-<link>https://cointelegraph.com/news/korea-blockchain-week-aug-9-second-day-takeaways-from-the-cointelegraph-team</link>
-<pubDate>Tue, 09 Aug 2022 09:40:00 +0100</pubDate>
-<guid isPermaLink="false">https://cointelegraph.com/news/korea-blockchain-week-aug-9-second-day-takeaways-from-the-cointelegraph-team11</guid>
-<description>
-<p>Korea Blockchain Week&nbsp;(KBW) 2022 wrapped up its two-day mainstage events this evening, which again saw a number of influential speakers <a href="https://cointelegraph.com/news/korea-blockchain-week-aug-8-first-day-takeaways-from-the-cointelegraph-team">take to the podium</a> including Janine Yorio of Everyrealm, Yat Siu of Animoca Brands and Sky Mavis&rsquo; Jeffrey Zirlin.<p>Held at the Grand Intercontinental Seoul Parnas, the second-day conference saw thousands of attendees engaged across three conference tracks &mdash; Stage Seoul, Stage Busan and Stage Jeju. </p><p>The majority of the discussions on the second day focused on the future of the <a href="https://cointelegraph.com/metaverse-for-beginners/what-is-metaverse-in-blockchain-a-beginners-guide-on-an-internet-enabled-virtual-world">Metaverse</a>, and the strategies that Web3 companies are taking to grow the industry.&nbsp;Given that the event was based in Korea, many were interested in the many exciting Web3 projects coming out of the Korean blockchain scene.&nbsp;The two-day event turned in a very large attendance despite Seoul experiencing some torrential rain over the last few days.</p><p>But, it&rsquo;s not quite over yet for KBW 2022 attendees, who will continue networking throughout the night and the rest of the week over countless side events.&nbsp;From 7:00 pm KST, KBW and Upclub will be hosting an exclusive afterparty for KBW attendees at People The Terras in Gangnam-gu in Seoul.</p><p>Later in the night, the &ldquo;KBW Official After After Party&rdquo; will kick off at Club Oriental Jack in Seoul, with the festivities running from 11:00 pm KST to 6:00 am KST for the brave. </p><p>For those that couldn&rsquo;t make it to Seoul for KBW 2022, the Cointelegraph team on the ground in Korea has highlighted some of the key discussions from the second day of the conference.</p><h2>Ready Player One' gave us the misconception that the Metaverse is VR &mdash; Everyrealm CEO</h2><p>Everyrealm CEO Janine Yorio believes that Steven Spielberg&rsquo;s film <em>Ready Player One</em> presents a <a href="https://cointelegraph.com/news/ready-player-one-gave-us-the-misconception-that-the-metaverse-is-vr-everyrealm-ceo-kbw-2022">myriad of misconceptions</a> about the Metaverse, mainly due to the fact that &ldquo;the protagonist is wearing a VR headset.&rdquo;</p><figure><img src="https://s3.cointelegraph.com/uploads/2022-08/057cc61d-f046-4731-a240-4dd5698b6855.jpg" alt="" title=""><figcaption style="text-align: center;"><em>Pictured:&nbsp; Janine Yorio, CEO, Everyrealm</em></figcaption></figure><p>In the presentation, Yorio highlighted that because humans like to &ldquo;interact with technologically&rdquo; which is historically 18 inches from our faces, VR headsets can present a number of adoption challenges.</p><h3>Digital property rights key to thriving Web3 economy &mdash; Animoca&rsquo;s Yat Siu</h3><p>Co-founder of Hong Kong-based venture firm Animoca Brands Yat Siu believes that on-chain digital property rights are one of the main aspects of blockchain technology that will drive a more decentralized society.</p><p>Siu believes Web2 companies have had their day with &ldquo;controlling our data,&rdquo; and now blockchain-based applications can provide digital ownership to content creators themselves. </p><figure><img src="https://s3.cointelegraph.com/uploads/2022-08/b5d79e98-f12a-43fc-aac9-8bc43339383f.jpg"><figcaption style="text-align: center;"><em>Pictured: Yat Siu, Chairman and Co-Founder, Animoca Brands</em></figcaption></figure><h3>Axie Infinity to &ldquo;double-down&rdquo; on the Korean market </h3><p>Sky Mavis, the firm behind play-to-earn (P2E) heavyweight Axie Infinity outlined intentions to &ldquo;double down&rdquo; in South Korea and ramp up adoption of the game. </p><p>Sky Mavis co-founder and growth lead Jeffrey Zirlin spoke to Cointelegraph and noted that despite the domestic ban on P2E games still being in place, the &ldquo;Korean market is one of the most important gaming markets in the world, and we have tons of players in South Korea.&rdquo;</p><p>Zirlin added that the company is currently looking at ways to tailor the Axie Infinity game to its cohort of Korean gamers: </p><blockquote>&ldquo;I think you know, we want to double down. We want to localize for example, Koreans don&rsquo;t speak much English, right? So there are actually a lot of barriers to actually getting the game into the hands of Korean players.&rdquo; </blockquote><h3>20 million JavaScript devs can now build applications on NEAR</h3><p>Near Protocol founder Illia Polosukhin spoke to Cointelegraph after the protocol rolled out its JavaScript Software Development Kits (JS SDKs), effectively opening Near&rsquo;s floodgates to 20 million global Javascript developers.</p><p>During KBW 2022, Polosukhin emphasized that the move will open up the niche field of blockchain development to a substantially broader audience, such as students looking to dip their toes into the blockchain and people in the commercial sector looking to accelerate their projects.</p><p>&ldquo;There&rsquo;s about 20 million JavaScript developers in the world. Probably like every developer one way or another wrote JavaScript in their life. And what we allow you to do is to write smart contracts in JavaScript,&rdquo; said Polosukhin.</p></p>
-</description>
-</item>
-<item>
-<title>Весь текст обернут сначала в p , потом в b</title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=37548</guid>
-<description>
-<p>
-<b>
-Bitcoin’s nosedives continued in the past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low
-It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000.
-</b>
-</p>
-</description>
-</item>
-<item>
-<title>Весь текст обернут в сначала в b , потом в p </title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=37548rtt</guid>
-<description>
-<b>
-<p>
-Bitcoin’s nosedives continued in the past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low
-It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000.
-</p>
-</b>
-</description>
-</item>
-<item>
-<title>Весь текст обернут в strong</title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=3754422428</guid>
-<description>
-<strong>
-Bitcoin’s nosedives continued in the past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low
-It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000.
-</strong>
-</description>
-</item>
-<item>
-<title>Весь текст обернут в i</title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=37547786868</guid>
-<description>
-<i>
-Bitcoin’s nosedives continued in the past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low
-It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000.
-</i>
-</description>
-</item>
-<item>
-<title>Весь текст обернут в em</title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=3757997648</guid>
-<description>
-<em>
-Bitcoin’s nosedives continued in the past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low
-It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000.
-</em>
-</description>
-</item>
-<item>
-<title>В тексте есть разные теги</title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 30 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=375787987648123</guid>
-<description>
-Bitcoin’s nosedives <strong>Стронг</strong> continued in the <em>Курсив EM</em>past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from <b>Жирный b</b>Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low <i>Курсив I </i>
-  It was less than a week ago when 
-<h2>подзаголовок</h2>
-the primary 
-  <h2><b>подзаголовок и жирный</b></h2>
-cryptocurrency was <b><i>Жирный курсив</i></b>riding high and <b><strong>дважды жирный</strong></b>tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000.
-</description>
-</item>
-<item>
-<title>Вся новость Strong и внутри текста есть жирный и курсив</title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=375366648</guid>
-<description>
-<strong>
-  Bitcoin’s nosedives <strong>Стронг</strong> continued in the <em>Курсив EM</em>past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from <b>Жирный b</b>Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low <i>Курсив I </i>
-It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000. 
-</strong>
-</description>
-</item>
-<item>
-<title>Вся новость жирный b и внутри текста есть жирный и курсив</title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=3752313248</guid>
-<description>
-<b>
-  Bitcoin’s nosedives <strong>Стронг</strong> continued in the <em>Курсив EM</em>past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from <b>Жирный b</b>Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low <i>Курсив I </i>
-It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000. 
-</b>
-</description>
-</item>
-<item>
-<title>Вся новость курсив I и внутри текста есть жирный и курсив</title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=37245546548</guid>
-<description>
-<i>
-  Bitcoin’s nosedives <strong>Стронг</strong> continued in the <em>Курсив EM</em>past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from <b>Жирный b</b>Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low <i>Курсив I </i>
-It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000. 
-</i>
-</description>
-</item>
-<item>
-<title>Вся новость курсив em и внутри текста есть жирный и курсив</title>
-<link>https://www.kriptopiyasasi.com/gram-altin-yukselisine-devam-ediyor/</link>
-<pubDate>Sun, 12 Jun 2022 17:55:22 +0000</pubDate>
-<guid isPermaLink="false">https://www.kriptopiyasasi.com/?p=375980864348</guid>
-<description>
-<em>
-  Bitcoin’s nosedives <strong>Стронг</strong> continued in the <em>Курсив EM</em>past 24 hours, with the asset dropping to and below $21,000. The altcoins are also suffering, with Ethereum slumping by another $100 and more massive declines from <b>Жирный b</b>Cardano, Solana, Shiba Inu, Polygon, and Avalanche. Bitcoin Down to a Weekly Low <i>Курсив I </i>
-It was less than a week ago when the primary cryptocurrency was riding high and tapped a 40-day peak of over $24,000. As news emerged that Tesla had sold a substantial portion of its BTC holdings, though, the asset lost $2,000. 
-</em>
-</description>
-</item>
-<item>
-<title>весь текст в стронг и i одновременно </title>
-<pubDate>Tue, 25 Jul 22 07:41:18 -0400</pubDate>
-<link>https://stocknews.com/news/pfe-bldr-elvh-3-high-quality-stocks-to-pick-up-for-the-second-half/</link>
-<guid isPermaLink="true">https://stocknews.com/news/pfe-bldr-elvh-3-high-quality-stocks-to-pick-up-for-the-second-half/</guid>
-<description>
-<strong><i><p><span style="font-weight: 400;">The near-term market outlook remains shaky, but there are some signs of stability. In essence, it’s clear that recession risk has been rising, while inflation risk has abated since the Fed’s 75 basis point hike in May.</span></p> <p><span style="font-weight: 400;">Obviously, a recession is a negative for stocks as it guarantees a decline in earnings. But, it also means that Treasuries find a bid as investors flock to the safety of these instruments. In turn, this provides support to certain parts of the market that benefit from lower rates or whose earnings are less impacted by economic conditions. </span></p> <p><span style="font-weight: 400;">The best candidates also have strong balance sheets and attractive valuations. The silver lining of volatile market conditions is that such high-quality stocks can be bought at a discount. Below are 3 such stocks that investors should consider buying during this market correction: </span><b>Elevance Health (</b><b>ELVH</b><b>)</b><span style="font-weight: 400;">, </span><b>Pfizer (</b><b>PFE</b><b>)</b><span style="font-weight: 400;">, and </span><b>Builders FirstSource (</b><b>BLDR</b><b>)</b><span style="font-weight: 400;">.</span></p> <p><b>Elevance Health (ELVH)</b></p> <p><span style="font-weight: 400;">ELVH is a managed care company, providing medical benefits to roughly 44 million members. The company offers employer, individual, and government-sponsored coverage plans. It is also the largest single provider of Blue Cross Blue Shield branded coverage. This sector has also been particularly strong due to a very low unemployment rate which means that the company has seen strong growth in enrollees. </span></p> <p><span style="font-weight: 400;">Further, the pandemic was a boost to its bottom line as fewer people were going to the doctor and undergoing procedures. Therefore, the company’s payout ratio declined. Many analysts had been expecting an above-average reading as the economy normalized, but so far this has simply returned to pre-pandemic levels.</span></p> <p><span style="font-weight: 400;">Another reason to like managed care stocks is their pricing power as healthcare spending tends to rise at a faster pace than inflation. And, they tend to be less affected by economic slowdowns. Currently, the company is seeing growth from its Medicare Advantage plans and virtual care services. </span></p> <p><span style="font-weight: 400;">With these attributes, it’s not surprising that </span><span style="font-weight: 400;">ELVH has an overall grade of A, which translates into a Strong Buy rating in our </span><span style="font-weight: 400;">POWR Ratings</span><span style="font-weight: 400;"> system. </span></p> <p><b>Pfizer (PFE)</b></p> <p><span style="font-weight: 400;">PFE is one of the world’s top pharmaceutical companies. This sector has also outperformed in recent months as its revenues and earnings are largely disconnected from economic growth or changes in monetary policy. Further, these companies have heavy pricing power over drugs under patent and a strong balance sheet with low debt and $25 billion in cash.</span></p> <p><span style="font-weight: 400;">PFE has also demonstrated the ability to constantly develop and bring to market blockbuster drugs. The most recent and well-known is its key role in the development of Pavlaxoid to treat COVID-19 patients.</span></p> <p><span style="font-weight: 400;">In 2021, the company earned $4.42 in EPS and $81.3 billion in revenue. This year, analysts are forecasting $7.16 in EPS and $108.2 billion in revenue. These equate to very impressive growth rates of 62% and 30%. Despite such strong growth, the stock is quite cheap with a forward P/E of 9.</span></p> <p><span style="font-weight: 400;">PFE’s strong fundamentals are reflected in its POWR Ratings. The stock has an overall A rating, which equates to Strong Buy in our proprietary rating system. A-rated stocks have posted an average annual performance of 31.1% which compares favorably to the S&amp;P 500’s annual performance of 8.0%. </span></p> <p><b>Builders FirstSource (BLDR)</b></p> <p><span style="font-weight: 400;">Another trend that is likely to remain strong even amidst these bearish headwinds is the housing market. It’s certainly possible that higher mortgage rates could slow its momentum, but the underlying supply and demand fundamentals remain supportive. Essentially, there is a demographic bulge as Millennials enter their 30s and 40s, while the supply of available housing is quite low relative to historical averages.</span></p> <p><span style="font-weight: 400;">This bodes well for companies like BLDR which is a producer and supplier of building materials. It primarily sells to homebuilders, contractors, remodelers, and construction companies. Some of its major products are dimensional lumber and lumber sheet goods, millwork, windows, interior and exterior doors, and other building products. It also offers construction-related services such as professional installation, turn-key framing, and shell construction, spanning all its product categories.</span></p> <p><span style="font-weight: 400;">BLDR’s low valuation means that it can deliver stellar returns for investors by continuing to deliver solid earnings growth. One potential catalyst is for the Fed to hike at a slower pace than what is expected by the market. Another is that inflationary pressures could ease which could lead to higher margins and revenues. </span></p> <p><span style="font-weight: 400;">BLDR’s POWR Ratings are consistent with this combination of deep value and earnings growth. The stock has an overall rating of B, which equates to a Buy in our proprietary rating system. B-rated stocks have posted an average annual performance of 21.1% which compares favorably to the S&amp;P 500’s average annual 8% gain. </span></p> <p>9 “<i>MUST OWN</i>” Growth Stocks</p> <p>What makes them “<i>MUST OWN</i>“?</p> <p>All 9 picks have strong fundamentals and are experiencing tremendous momentum. They also contain a winning blend of growth and value attributes that generates a catalyst for serious outperformance.</p> <p>Even more important, each recently earned a Buy rating from our coveted POWR Ratings system where the A rated stocks have gained +31.10% a year.</p> <p>Click below now to see these top performing stocks with exciting growth prospects:</p> <p>9 “<i>MUST OWN</i>” Growth Stocks</p> <hr /> <p>PFE shares fell $0.20 (-0.39%) in premarket trading Tuesday. Year-to-date, PFE has declined -10.94%, versus a -16.10% rise in the benchmark S&amp;P 500 index during the same period.</p> </i></strong>
-</description>
+		<title>Bu Altcoin Topluluğu Kritik Kararı Verdi: Kendi Vakıflarını Kuruyorlar!</title>
+		<link>https://www.bitcoinsistemi.com/bu-altcoin-toplulugu-kritik-karari-verdi-kendi-vakiflarini-kuruyorlar/</link>
+		<pubDate>Thu, 25 Aug 2022 08:50:51 +0000</pubDate>
+		<guid isPermaLink="false">https://www.bitcoinsistemi.com/?p=859701</guid>
+    <description><![CDATA[UniSwap altcoin topluluğu üyeleri, merkeziyetsiz büyüme ve uzun vadeli sürdürülebilirliği desteklemesi hedeflenen UniSwap Vakfı’nın kurulması için oybirliğiyle karar verdi. Uniswap Vakfı, Uniswap ekosistemi içinde bağımsız bir kuruluş olacak ve tamamen merkeziyetsiz borsanın kendi altcoinini desteklemeye odaklanacak. Vakıf Oylaması UniSwap Altcoin Topluluğu Tarafından Ezici Çoğunlukla Kabul Edildi Uniswap Vakfı&#8217;nın kurulmasına yönelik teklif Uniswap kripto para topluluğu [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>UniSwap altcoin</strong> topluluğu üyeleri, merkeziyetsiz büyüme ve uzun vadeli sürdürülebilirliği desteklemesi hedeflenen UniSwap Vakfı’nın kurulması için oybirliğiyle karar verdi.</p>
+<p>Uniswap Vakfı, Uniswap ekosistemi içinde bağımsız bir kuruluş olacak ve tamamen merkeziyetsiz borsanın kendi altcoinini desteklemeye odaklanacak.</p>
+<h2>Vakıf Oylaması UniSwap Altcoin Topluluğu Tarafından Ezici Çoğunlukla Kabul Edildi</h2>
+<p>Uniswap Vakfı&#8217;nın kurulmasına yönelik teklif Uniswap <a href="https://www.bitcoinsistemi.com/kripto-para-yatirimina-yeni-baslayanlara-tavsiyeler-ve-ogretici-bilgiler/" target="_blank" rel="noopener"><strong>kripto para</strong></a> topluluğu üyeleri Devin Walsh ve Ken Ng tarafından sunuldu ve UNI token sahiplerinin büyük desteğiyle 24 Ağustos&#8217;ta oylama sona erdi.</p>
+<p>Topluluk üyesi Walsh, yaptığı açıklamasında şunları söyledi:</p>
+<blockquote><p>“Vakfın şu ana kadar topluluktan aldığı destek bizi çok heyecanlandırdı ve son birkaç aydır yaptığımız görüşmelerden çok enerji aldık.</p>
+<p>Bununla birlikte, bu rolü üstlenmenin büyük bir sorumluluk olduğunun farkındayız ve bunu hafife almıyoruz. Mümkün olduğunca çok sayıda topluluk üyesiyle güçlü ilişkiler kurmayı ve yeni yüksek değerli katılımcıları da aramıza katmayı dört gözle bekliyoruz.”</p></blockquote>
+<p>Vakıf, yüksek ölçekli ve değerli projeler için Uniswap&#8217;teki yönetim aksaklıklarını azaltmak ve ekosistemdeki dolaşımı iyileştirmek istiyor. Bununla birlikte vakıf, protokol üzerindeki yönetim oylamalarına katılmak için 2.5 milyon UNI altcoini talep etti.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Last night our proposal to create the Uniswap Foundation passed its final vote!</p>
+<p><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f984.png" alt="🦄" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f984.png" alt="🦄" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f984.png" alt="🦄" class="wp-smiley" style="height: 1em; max-height: 1em;" /><a href="https://t.co/B2VOAeg5is">https://t.co/B2VOAeg5is</a></p>
+<p>&mdash; Devin Walsh (@devinawalsh) <a href="https://twitter.com/devinawalsh/status/1562496359823196160?ref_src=twsrc%5Etfw">August 24, 2022</a></p></blockquote>
+<p><a href="https://www.bitcoinsistemi.com/uniswap-gelistiricileri-uzun-suredir-beklenen-verileri-kullanicilara-acti/" target="_blank" >İlgili İçerik</a>: UniSwap Geliştiricileri Uzun Süredir Beklenen Verileri Kullanıcılara Açtı!</p>
+<p>Vakıf ayrıca protokolün 3.4 milyar dolarlık bilançosundan 74 milyon dolar talep ediyor ve bu miktar iki ödemeye bölünecek: 20 milyon dolar önümüzdeki yıllarda işletme giderlerine ve hibelere tahsis edilecek ve 54 milyon dolar ise vakıf tüzel kişiliğini oluşturduktan sonra Uniswap hazinesi tarafından dağıtılacak.</p>
+<p>Walsh, teklifin kabul edilmesinden bu yana Uniswap Vakfı&#8217;ndaki ekibin, yetenek havuzunu oluşturmak, Uniswap Hibe programını ölçeklendirmek ve yönetim sürecini yeniden canlandırmak gibi en önemli öncelikleri üzerinde çalışmaya başladığını söyledi.</p>
+<p>*Yatırım tavsiyesi değildir.</p>
+]]></content:encoded>
 </item>
 </channel>
 </rss>
